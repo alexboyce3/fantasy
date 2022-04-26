@@ -1,0 +1,5 @@
+bs4
+pandas
+re
+requests
+unidecode
